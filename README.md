@@ -3,5 +3,7 @@ This project implements a hand-gesture recognition system using OpenCV and Media
 
 # Project library dependencies 
 openCV -(For image processing and drawing)
+
 mediapipe -(For Hand Tracking)
+
 pynput -(For keys input controls)
